@@ -1,3 +1,3 @@
 config:
    value: 'a service1-specific config value'
-   secret-value: '{cipher}eadaa4e2e765f2ebff88093d6b6dec1bbf885e7f90d64e4b09efd89a8d0d7bae28f48968f6fb46845e1b07714a14ac4f'
+   super-secret-value: '{cipher}eadaa4e2e765f2ebff88093d6b6dec1bbf885e7f90d64e4b09efd89a8d0d7bae28f48968f6fb46845e1b07714a14ac4f'
