@@ -1,3 +1,3 @@
 config:
    value: a default value from config
-   super-secret-value: '{cipher}a600cbf70254b2802b4eb0e8c68617cc00180d856c1d5187dc5f1f9d7e12d491772c75ef6649adb9948a2a87de836cf0'
+   superSecretValue: '{cipher}a600cbf70254b2802b4eb0e8c68617cc00180d856c1d5187dc5f1f9d7e12d491772c75ef6649adb9948a2a87de836cf0'
