@@ -1,2 +1,2 @@
 config:
-   value: value from config for service1
+   value: a default value from config
